@@ -1,5 +1,5 @@
 # Countdown-timer-until-const
 
-指定の日時(2024.10.01)までのカウントダウンを表示する
+次の休暇(休日前17:00)または次の平日(平日06:00)までのカウントダウンを表示する
 
 [Release page](https://krkrkrr.github.io/Countdown-timer-until-const/)
